@@ -1,5 +1,8 @@
 {
-  "sourceRevision": "af8d0484ad77bd73d2dbbdb38e83ec978b52bdf2",
-  "mode": "public-preview",
-  "serverWrites": false
+  "sourceRevision": "38c800730d766839f7d5fe8db15bc674e8c5abc8",
+  "mode": "e2-bm-v2.1-frontend-demo",
+  "backendConnected": false,
+  "serverWrites": false,
+  "realPayments": false,
+  "routing": "hash"
 }

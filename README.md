@@ -1,9 +1,11 @@
-# AI BUILDER public preview
+# AI BUILDER — E2 / BM v2.1 frontend demo
 
-Published at https://uxidesigner-ux.github.io/ai-builder-web/
+Preview: https://uxidesigner-ux.github.io/ai-builder-web/
 
-This repository contains compiled website files only. Application and server source remain in the private ai-builder repository.
+Screen and scenario review: https://uxidesigner-ux.github.io/ai-builder-web/#/preview
 
-This is a public, read-only preview with nine fictional samples. Search, filters, grid/list views, details, builder profiles and motion are interactive. Google login, recommendations, submissions and administrative writes require the separate application server and are not enabled here.
+Compiled static frontend only. Source remains in the private `ai-builder` repository. Build with `npm run build:pages`; publish only `dist/`. Hash routes allow shared links and refresh without a backend.
 
-Fonts and icon notices are retained in licenses/. No local database, credentials, uploaded drafts or private reports are included.
+All services, notes, subscription and settlement states are fictional review data. Demo recommendations and drafts are stored only in the current browser. No real login, payment, refund, transfer, email list or server writes. Review roles are scenario controls, not authenticated accounts. Default is stage 1; use the review screen for stages 2–3.
+
+Fonts and icon notices are retained in `licenses/`. No credentials, database, private source documents or local user drafts are included. `deployment.json` records the source revision.
