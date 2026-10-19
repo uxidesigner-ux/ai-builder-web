@@ -1,9 +1,8 @@
 {
-  "sourceRevision": "7986cbfc120fee564e746f70b9c1266074383f3e",
+  "sourceRevision": "a150e6b28edc2b45fd16447c7f07fda05ea97705",
   "mode": "e2-bm-v2.1-frontend-demo",
   "backendConnected": false,
   "serverWrites": false,
   "realPayments": false,
-  "routing": "hash",
-  "uiRevision": "mobile-browse-navigation-2026-10-18"
+  "routing": "hash"
 }
