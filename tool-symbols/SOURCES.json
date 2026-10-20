@@ -1,0 +1,92 @@
+{
+  "retrievedAt": "2026-10-20T06:29:22.313Z",
+  "purpose": "Product identification in AI BUILDER tool selection; no affiliation claim",
+  "existingSix": "Original repository assets preserved byte for byte; see docs/ICON_RESTORATION_2026-10-19.md",
+  "newAssets": [
+    {
+      "name": "gemini-cli",
+      "downloadUrl": "https://geminicli.com/icon.png",
+      "discoveredOn": "https://geminicli.com/",
+      "sourceFile": "public/tool-symbols/sources/gemini-cli.png",
+      "mime": "image/png",
+      "bytes": 46696,
+      "sha256": "351e9f5b1bf863d738cd7be4ed040a625a1419450ae7fc490143e4042b7c2438",
+      "renderFile": "public/tool-symbols/gemini-cli.png",
+      "renderSha256": "d3125e2dbb6cc9cc397efe07146d6bf39062b286231a2e9f080074df0f596ed0",
+      "processing": "Proportional 96px PNG rendering only; original paths and colors retained"
+    },
+    {
+      "name": "bolt",
+      "downloadUrl": "https://bolt.new/static/favicon.svg",
+      "discoveredOn": "https://bolt.new/",
+      "sourceFile": "public/tool-symbols/sources/bolt.svg",
+      "mime": "image/svg+xml",
+      "bytes": 1445,
+      "sha256": "ffb613a563d769368b996d03b91e8683b645d251a9a27f4cd8a7414715468523",
+      "renderFile": "public/tool-symbols/bolt.png",
+      "renderSha256": "22caf2d8777aab6304278bc27925f4bf31e6e9f73b3142ca9c3c902429f6ae9f",
+      "processing": "Proportional 96px PNG rendering only; original paths and colors retained"
+    },
+    {
+      "name": "v0",
+      "downloadUrl": "https://v0.app/assets/apple-icon.png",
+      "discoveredOn": "https://v0.app/",
+      "sourceFile": "public/tool-symbols/sources/v0.png",
+      "mime": "image/png",
+      "bytes": 2626,
+      "sha256": "da678942d4656a903f61000551cc51c09464d7a223faaae304e8210e1ca19257",
+      "renderFile": "public/tool-symbols/v0.png",
+      "renderSha256": "89cf1ae0181a96f66502daf6a3819da83a691f72afff353541eb4c46683bc7b8",
+      "processing": "Proportional 96px PNG rendering only; original paths and colors retained"
+    },
+    {
+      "name": "replit",
+      "downloadUrl": "https://replit.com/public/icons/favicon-prompt-192-rebrand.png",
+      "discoveredOn": "https://replit.com/",
+      "sourceFile": "public/tool-symbols/sources/replit.png",
+      "mime": "image/png",
+      "bytes": 612,
+      "sha256": "cbd9fa5be81f1b59919c3ac2a43a6c0b98dc7c873b325a526df214e9ef7afea4",
+      "renderFile": "public/tool-symbols/replit.png",
+      "renderSha256": "ed6e40b80539f49b2df4ff5703abc0dacd59267ea304c45754e49730a50c043c",
+      "processing": "Proportional 96px PNG rendering only; original paths and colors retained"
+    },
+    {
+      "name": "google-ai-studio",
+      "downloadUrl": "https://www.gstatic.com/images/branding/productlogos/ai_studio/v1/web-96dp/logo_ai_studio_color_1x_web_96dp.png",
+      "discoveredOn": "https://aistudio.google.com/welcome",
+      "sourceFile": "public/tool-symbols/sources/google-ai-studio.png",
+      "mime": "image/png",
+      "bytes": 5301,
+      "sha256": "f4aaba05c020e9cba9e8b38ba8dff69f1e2aee9efc20dcd205dc1eaea8f7f643",
+      "renderFile": "public/tool-symbols/google-ai-studio.png",
+      "renderSha256": "4e778689651f91f11166b3510d0347c8ac5239cdb30def960305e35283a1fb51",
+      "processing": "Proportional 96px PNG rendering only; original paths and colors retained"
+    },
+    {
+      "name": "figma-make",
+      "downloadUrl": "https://www.figma.com/make/",
+      "discoveredOn": "https://www.figma.com/make/",
+      "extraction": "Product navigation link to Figma Make, inline SVG copied without changing paths or colors",
+      "sourceFile": "public/tool-symbols/sources/figma-make.svg",
+      "mime": "image/svg+xml",
+      "bytes": 2169,
+      "sha256": "a885eff0967f676583273ee13eeba0ae1efdf24ea107bc22743cba88b6104b79",
+      "renderFile": "public/tool-symbols/figma-make.png",
+      "renderSha256": "674628275e11ccf9bcee42e20ae7d3979f17f55480b3935fb2e9576ff7523bc8",
+      "processing": "Proportional 96px PNG rendering only; original paths and colors retained"
+    },
+    {
+      "name": "antigravity",
+      "downloadUrl": "https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg",
+      "discoveredOn": "https://antigravity.google/press",
+      "sourceFile": "public/tool-symbols/sources/antigravity.svg",
+      "mime": "image/svg+xml",
+      "bytes": 5301,
+      "sha256": "d775965ea1f8060538c15f758a3e22487317211fcb6051333b5e023f35aa726f",
+      "renderFile": "public/tool-symbols/antigravity.png",
+      "renderSha256": "47146d674f887079c8d25119abbdbfc21fcaef9061f34826ae4d0aa35c285c14",
+      "processing": "Proportional 96px PNG rendering only; original paths and colors retained"
+    }
+  ]
+}
