@@ -1,0 +1,36 @@
+{
+  "generatedBy": "imagegen built-in",
+  "fictional": true,
+  "assets": [
+    {
+      "id": "maker-01",
+      "file": "maker-portraits/maker-01.webp",
+      "sha256": "05c057d87a503f51f190e65b61e239d52707bd0f122241bf556954c19b3a3bc3"
+    },
+    {
+      "id": "maker-02",
+      "file": "maker-portraits/maker-02.webp",
+      "sha256": "39cfd7794fc1a017b5103954cd75057e55abd2ff432e24273357ea7a0f773d41"
+    },
+    {
+      "id": "maker-03",
+      "file": "maker-portraits/maker-03.webp",
+      "sha256": "c0449f28223e738773e2b167ef04f5422113ad00f70cf4b9960403e316f96685"
+    },
+    {
+      "id": "maker-04",
+      "file": "maker-portraits/maker-04.webp",
+      "sha256": "7a97b2c1f3c0b5faf25d11a3b14707e650bb8dad38f995f38c6b344666046ce6"
+    },
+    {
+      "id": "maker-05",
+      "file": "maker-portraits/maker-05.webp",
+      "sha256": "0ba4f736c6f61332f8fce053f9b667f60b071333aa6b030f05a063e5874b092c"
+    },
+    {
+      "id": "maker-06",
+      "file": "maker-portraits/maker-06.webp",
+      "sha256": "be2cf8bbcb51b15f88b2dbb4f21104e1e4e9d448819dce6a87efb4181b07cb41"
+    }
+  ]
+}
